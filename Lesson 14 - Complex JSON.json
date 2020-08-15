@@ -1,0 +1,28 @@
+{
+    "presentation": {
+        "slides": {
+            "title": "Lesson 14",
+            "image": "JSON",
+            "code": [
+                "basic list",
+                "complex list",
+                "complex dictionary"
+            ]
+        },
+        "script": {
+            "explaining": [
+                "basic list",
+                "complex list",
+                "complex dictionary"
+            ]
+        }
+    },
+    "code": {
+        "language": "JSON",
+        "aim": "explaining a video"
+    },
+    "end project": true,
+    "editing": "little",
+    "number": 14,
+    "guest": null
+}
