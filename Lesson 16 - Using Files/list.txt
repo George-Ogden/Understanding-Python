@@ -1,0 +1,7 @@
+read
+append
+write
+createread
+append
+write
+create
