@@ -1,0 +1,14 @@
+{
+    "name": "Fictional Person",
+    "DOB": [
+        2001,
+        1,
+        1
+    ],
+    "job": "coder",
+    "skills": [
+        "coding",
+        "maths",
+        "Python"
+    ]
+}
