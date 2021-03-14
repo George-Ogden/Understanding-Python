@@ -1,7 +1,6 @@
 from selenium import webdriver
 import time
 import requests
-import os
 
 driver = webdriver.Chrome()
 driver.maximize_window()
