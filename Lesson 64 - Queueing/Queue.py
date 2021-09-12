@@ -8,7 +8,8 @@ items = ["a",5,True]
 def add(*items):
     try:
         for item in items:
-            q.put(item,timeout=random.random())
+            q.put(item,timeout=1)
+            time.sleep(random.random())
     except Full:
         print("Queue is full")
 Thread(target=add,args=items).start()

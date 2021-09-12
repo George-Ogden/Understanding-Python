@@ -15,12 +15,12 @@ from threading import Thread
 import random
 import time
 
-q = LifoQueue(maxsize=0)
+q = LifoQueue()
 items = ["a",5,True]
 def add(*items):
     try:
         for item in items:
-            q.put(item,timeout=random.random())
+            q.put(item)
             time.sleep(random.random())
     except Full:
         print("Queue is full")
