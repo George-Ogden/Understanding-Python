@@ -1,4 +1,4 @@
-# Understanding-Python
+# Understanding Python
 All the code for the video tutorials
 
 Watch the videos at:
