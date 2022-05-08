@@ -1,0 +1,8 @@
+{
+    "username":"example@outlook.com",
+    "password":"password",
+    "server":"smtp-mail.outlook.com",
+    "port":587,
+    "receiver":"example@example.com",
+    "attachment":"file.txt"
+}
